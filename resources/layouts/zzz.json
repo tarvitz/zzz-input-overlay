@@ -1,0 +1,191 @@
+{
+  "version": 1337,
+  "default_height": 0,
+  "default_width": 0,
+  "flags": 6,
+  "overlay_height": 230,
+  "overlay_width": 411,
+  "space_h": 0,
+  "space_v": 0,
+  "elements": [
+    {
+      "code": 0,
+      "id": "body",
+      "mapping": [
+        0,
+        0,
+        411,
+        230
+      ],
+      "pos": [
+        0,
+        0
+      ],
+      "type": 0,
+      "z_level": 1
+    },
+    {
+      "code": 2,
+      "id": "x",
+      "mapping": [
+        109,
+        233,
+        86,
+        84
+      ],
+      "pos": [
+        109,
+        0
+      ],
+      "type": 2,
+      "z_level": 1
+    },
+    {
+      "code": 3,
+      "id": "y",
+      "mapping": [
+        325,
+        233,
+        86,
+        84
+      ],
+      "pos": [
+        325,
+        0
+      ],
+      "type": 2,
+      "z_level": 1
+    },
+    {
+      "code": 0,
+      "id": "a",
+      "mapping": [
+        218,
+        233,
+        86,
+        84
+      ],
+      "pos": [
+        218,
+        0
+      ],
+      "type": 2,
+      "z_level": 1
+    },
+    {
+      "code": 1,
+      "id": "b",
+      "mapping": [
+        0,
+        233,
+        86,
+        84
+      ],
+      "pos": [
+        0,
+        0
+      ],
+      "type": 2,
+      "z_level": 1
+    },
+    {
+      "code": 10,
+      "id": "lb",
+      "mapping": [
+        218,
+        407,
+        86,
+        20
+      ],
+      "pos": [
+        218,
+        110
+      ],
+      "type": 2,
+      "z_level": 1
+    },
+    {
+      "code": 9,
+      "id": "rb",
+      "mapping": [
+        109,
+        407,
+        86,
+        20
+      ],
+      "pos": [
+        109,
+        110
+      ],
+      "type": 2,
+      "z_level": 1
+    },
+    {
+      "code": 6,
+      "id": "start",
+      "mapping": [
+        0,
+        407,
+        33,
+        20
+      ],
+      "pos": [
+        0,
+        110
+      ],
+      "type": 2,
+      "z_level": 1
+    },
+    {
+      "code": 4,
+      "id": "select",
+      "mapping": [
+        53,
+        407,
+        33,
+        20
+      ],
+      "pos": [
+        53,
+        110
+      ],
+      "type": 2,
+      "z_level": 1
+    },
+    {
+      "direction": 3,
+      "id": "rt",
+      "mapping": [
+        325,
+        407,
+        86,
+        20
+      ],
+      "pos": [
+        325,
+        110
+      ],
+      "side": 1,
+      "trigger_mode": "false",
+      "type": 6,
+      "z_level": 1
+    },
+    {
+      "id": "left-stick",
+      "mapping": [
+        0,
+        453,
+        20,
+        20
+      ],
+      "pos": [
+        33,
+        178
+      ],
+      "side": 0,
+      "stick_radius": 38,
+      "type": 5,
+      "z_level": "1"
+    }
+  ]
+}
